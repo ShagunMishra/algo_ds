@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594630162 source:e:\program\ds\array adt\arraymenuc++\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
