@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593973619 source:e:\program\ds\array adt\getset\main.c
+	<stdio.h>
+	<stdlib.h>
+

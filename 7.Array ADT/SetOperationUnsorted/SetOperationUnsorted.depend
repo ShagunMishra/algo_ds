@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1594628672 source:e:\program\ds\array adt\setoperationunsorted\main.c
+	<stdio.h>
+	<stdlib.h>
+

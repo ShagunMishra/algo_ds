@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1594064779 source:e:\program\ds\array adt\reverse\main.c
+	<stdio.h>
+	<stdlib.h>
+
