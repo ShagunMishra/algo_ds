@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1595767979 source:e:\program\ds\matrix\diagonalmat\main.c
+	<stdio.h>
+	<stdlib.h>
+
