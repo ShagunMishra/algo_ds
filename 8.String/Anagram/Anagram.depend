@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1595781305 source:e:\program\ds\string\anagram\main.c
+	<stdio.h>
+	<stdlib.h>
+

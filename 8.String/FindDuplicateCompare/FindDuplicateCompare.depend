@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1595771498 source:e:\program\ds\string\findduplicatecompare\main.c
+	<stdio.h>
+	<stdlib.h>
+
