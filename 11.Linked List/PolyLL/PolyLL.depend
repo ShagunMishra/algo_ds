@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602619410 source:e:\program\ds\linked list\polyll\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
