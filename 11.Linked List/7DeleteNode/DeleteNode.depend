@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600010573 source:e:\program\ds\linked list\7deletenode\main.c
+	<stdio.h>
+	<stdlib.h>
+
