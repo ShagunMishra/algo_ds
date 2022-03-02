@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604158807 source:e:\program\ds\stack\parenthesismatching\main.c
+	<stdio.h>
+	<stdlib.h>
+
