@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1608218326 source:e:\program\ds\15. tree\binarytreeclass\main.cpp
+	<iostream>
+	<stdio.h>
+	"QueueCpp.h"
+
+1608217025 e:\program\ds\15. tree\binarytreeclass\queuecpp.h
+	<iostream>
+	<stdio.h>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1608529790 source:e:\program\ds\15. tree\iterativetraversal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+	"Stack.h"
+
+1608524974 e:\program\ds\15. tree\iterativetraversal\queue.h
+
+1608529914 e:\program\ds\15. tree\iterativetraversal\stack.h
+	"Queue.h"
+
