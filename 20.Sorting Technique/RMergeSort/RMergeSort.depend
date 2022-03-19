@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610864526 source:e:\program\ds\20.sorting technique\rmergesort\main.c
+	<stdio.h>
+	<stdlib.h>
+

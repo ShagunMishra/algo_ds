@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1610090211 source:e:\program\ds\16.bst\bubblesort\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1610090211 source:e:\program\ds\20.sorting technique\bubblesort\main.c
+	<stdio.h>
+	<stdlib.h>
+

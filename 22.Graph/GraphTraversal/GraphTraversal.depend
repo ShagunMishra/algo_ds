@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1604438889 source:e:\program\ds\stack\graphtraversal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+
+1604439026 e:\program\ds\stack\graphtraversal\queue.h
+	<stdlib.h>
+

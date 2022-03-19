@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1611673560 source:e:\program\ds\20.sorting technique\chaining\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Chains.h"
+
+1611673606 e:\program\ds\20.sorting technique\chaining\chains.h
+	<stdio.h>
+
